@@ -1,1 +1,2 @@
-# fun_jupyter_nb
+# A collection of random Jupyter notebooks
+
